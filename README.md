@@ -108,7 +108,7 @@ Once processed, appointments are automatically created in Google Calendar.
 
 ## 📁 Repository Structure
 
-
+```text
 poc-agendamento-automatizado/
 │
 ├── docs/
@@ -134,22 +134,3 @@ poc-agendamento-automatizado/
 
 ---
 
-## 📝 Notes
-
-This project was built as a Proof of Concept
-
-Designed with clarity, modularity, and reusability in mind
-
-Easily adaptable for clinics, service providers, and scheduling platforms
-
-Ideal for technical demos, proposals, and portfolio presentation
-
----
-
-## 👤 Author
-
-Daniel Oliveira
-DGO Data Solutions
-AI, Chatbots & Data Automation Solutions
-
----
