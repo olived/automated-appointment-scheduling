@@ -132,6 +132,7 @@ poc-agendamento-automatizado/
 │
 └── README.md
 
+---
 
 ##📝 Notes
 
@@ -142,6 +143,8 @@ Designed with clarity, modularity, and reusability in mind
 Easily adaptable for clinics, service providers, and scheduling platforms
 
 Ideal for technical demos, proposals, and portfolio presentation
+
+---
 
 ##👤 Author
 
